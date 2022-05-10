@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/saga-mui-quiz/static/css/main.31d6cfe0.css",
+    "main.js": "/saga-mui-quiz/static/js/main.6eae89f3.js",
+    "index.html": "/saga-mui-quiz/index.html",
+    "main.6eae89f3.js.map": "/saga-mui-quiz/static/js/main.6eae89f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6eae89f3.js"
+  ]
+}
